@@ -1,0 +1,17 @@
+id: pec-deck-fly
+nom: Butterfly (pec fly)
+nom_en: Pec deck fly
+description: Rapprochement des bras sur la station butterfly. Isolation des pectoraux.
+groupe: poitrine
+muscles_principaux:
+- pectoraux
+muscles_secondaires:
+- deltoïdes antérieurs
+equipement:
+- cable-machine
+cues:
+- Coudes légèrement fléchis, mouvement en arc
+- Serrer les pecs en fin de mouvement
+- Contrôler l'ouverture, ne pas laisser le poids tirer
+video_url: null
+image_url: null

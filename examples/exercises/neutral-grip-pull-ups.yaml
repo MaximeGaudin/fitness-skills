@@ -1,0 +1,20 @@
+id: neutral-grip-pull-ups
+nom: Tractions prise neutre
+nom_en: Neutral-grip pull-ups
+description: Traction avec les paumes face à face. Position la plus naturelle pour
+  les épaules.
+groupe: dos
+muscles_principaux:
+- grand dorsal
+- brachial
+muscles_secondaires:
+- biceps
+- rhomboïdes
+equipement:
+- rack
+cues:
+- Paumes face à face
+- Menton au-dessus de la barre
+- Tirer les coudes vers les hanches
+video_url: null
+image_url: null

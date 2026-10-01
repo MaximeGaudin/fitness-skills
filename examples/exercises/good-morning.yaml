@@ -1,0 +1,20 @@
+id: good-morning
+nom: Good morning
+nom_en: Good morning
+description: Flexion du buste vers l'avant avec la barre sur le dos. Renforce la chaîne
+  postérieure.
+groupe: dos / jambes
+muscles_principaux:
+- ischio-jambiers
+- érecteurs du rachis
+muscles_secondaires:
+- grand fessier
+equipement:
+- barbell
+- plates
+cues:
+- Genoux légèrement fléchis, barre sur les trapèzes
+- Basculer le buste en poussant les fesses en arrière
+- Dos plat à tout moment, charge légère
+video_url: null
+image_url: null

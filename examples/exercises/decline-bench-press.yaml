@@ -1,0 +1,21 @@
+id: decline-bench-press
+nom: Développé décliné
+nom_en: Decline bench press
+description: Développé couché décliné à la barre. Cible la partie basse des pectoraux.
+groupe: poitrine
+muscles_principaux:
+- pectoraux (bas)
+muscles_secondaires:
+- triceps
+- deltoïdes antérieurs
+equipement:
+- rack
+- bench
+- barbell
+- plates
+cues:
+- Banc à -15°
+- Bien caler les pieds
+- Barre descend vers le bas de la poitrine
+video_url: null
+image_url: null

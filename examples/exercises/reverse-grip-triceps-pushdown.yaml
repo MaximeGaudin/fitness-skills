@@ -1,0 +1,19 @@
+id: reverse-grip-triceps-pushdown
+nom: Extension triceps prise inversée
+nom_en: Reverse-grip triceps pushdown
+description: Extension triceps à la poulie avec les paumes vers le haut. Cible davantage
+  la longue portion.
+groupe: bras
+muscles_principaux:
+- triceps
+muscles_secondaires:
+- anconé
+- avant-bras
+equipement:
+- cable-machine
+cues:
+- Paumes vers le haut (supination)
+- Coudes fixes, seuls les avant-bras bougent
+- Ne pas utiliser d'élan
+video_url: null
+image_url: null

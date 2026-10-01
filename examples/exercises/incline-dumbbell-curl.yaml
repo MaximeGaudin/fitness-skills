@@ -1,0 +1,19 @@
+id: incline-dumbbell-curl
+nom: Curl incliné
+nom_en: Incline dumbbell curl
+description: Curl sur banc incliné à 45°. Étirement maximal de la longue portion du
+  biceps.
+groupe: bras
+muscles_principaux:
+- biceps (longue portion)
+muscles_secondaires:
+- brachial
+equipement:
+- dumbbells
+- bench
+cues:
+- Dos calé sur le banc incliné, bras pendants
+- Laisser les bras descendre derrière le corps
+- Curl sans bouger les épaules
+video_url: null
+image_url: null

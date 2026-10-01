@@ -1,0 +1,20 @@
+id: front-plank
+nom: Gainage face (plank)
+nom_en: Front plank
+description: Maintien en position de gainage sur les avant-bras. Renforcement isométrique
+  du core.
+groupe: abdominaux
+muscles_principaux:
+- grand droit de l'abdomen
+- transverse
+muscles_secondaires:
+- obliques
+- érecteurs du rachis
+- deltoïdes
+equipement: []
+cues:
+- Fesses alignées avec les épaules (pas en pic, pas creusé)
+- Serrer les abdos et les fessiers
+- Respirer normalement, ne pas bloquer
+video_url: https://www.youtube.com/watch?v=lismOShjHnA
+image_url: https://img.youtube.com/vi/lismOShjHnA/hqdefault.jpg

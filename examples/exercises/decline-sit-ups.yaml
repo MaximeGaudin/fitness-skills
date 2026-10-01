@@ -1,0 +1,19 @@
+id: decline-sit-ups
+nom: Sit-ups déclinés
+nom_en: Decline sit-ups
+description: Sit-ups sur banc décliné. Plus de résistance gravitationnelle que les
+  sit-ups au sol.
+groupe: abdominaux
+muscles_principaux:
+- grand droit de l'abdomen
+muscles_secondaires:
+- obliques
+- psoas-iliaque
+equipement:
+- bench
+cues:
+- Croiser les bras sur la poitrine ou mains aux tempes
+- Enrouler le buste, pas se relever en bloc
+- Descente contrôlée
+video_url: null
+image_url: null

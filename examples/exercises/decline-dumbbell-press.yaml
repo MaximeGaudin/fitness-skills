@@ -1,0 +1,19 @@
+id: decline-dumbbell-press
+nom: Développé décliné haltères
+nom_en: Decline dumbbell press
+description: Développé décliné avec haltères. Cible le bas des pectoraux.
+groupe: poitrine
+muscles_principaux:
+- pectoraux (bas)
+muscles_secondaires:
+- triceps
+- deltoïdes antérieurs
+equipement:
+- dumbbells
+- bench
+cues:
+- Bien caler les pieds
+- Descente contrôlée
+- Même trajectoire que le bench press, inclinaison inversée
+video_url: null
+image_url: null

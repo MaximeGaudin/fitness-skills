@@ -1,0 +1,17 @@
+id: cable-shrug
+nom: Shrug à la poulie basse
+nom_en: Cable shrug
+description: Haussement d'épaules à la poulie basse. Isolation des trapèzes supérieurs.
+groupe: dos
+muscles_principaux:
+- trapèzes supérieurs
+muscles_secondaires:
+- élévateur de la scapula
+equipement:
+- cable-machine
+cues:
+- Monter les épaules vers les oreilles
+- Tenir 1 sec en haut
+- Bras tendus, pas de flexion des coudes
+video_url: null
+image_url: null

@@ -1,0 +1,21 @@
+id: burpees
+nom: Burpees
+nom_en: Burpees
+description: 'Mouvement full-body explosif : pompe au sol, saut vertical avec les
+  mains au-dessus de la tête.'
+groupe: full body
+muscles_principaux:
+- pectoraux
+- quadriceps
+- deltoïdes
+muscles_secondaires:
+- triceps
+- core
+- ischio-jambiers
+equipement: []
+cues:
+- Poitrine au sol en bas
+- Extension complète + saut en haut
+- Pas de pause entre les phases
+video_url: https://www.youtube.com/watch?v=TU8QYVW0gDU
+image_url: https://img.youtube.com/vi/TU8QYVW0gDU/hqdefault.jpg

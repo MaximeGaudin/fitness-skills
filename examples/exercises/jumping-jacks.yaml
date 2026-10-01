@@ -1,0 +1,19 @@
+id: jumping-jacks
+nom: Jumping jacks
+nom_en: Jumping jacks
+description: 'Saut en étoile : écarter bras et jambes simultanément, puis revenir.
+  Échauffement cardio classique.'
+groupe: cardio
+muscles_principaux:
+- deltoïdes
+- mollets
+muscles_secondaires:
+- quadriceps
+- adducteurs
+equipement: []
+cues:
+- Bras tendus au-dessus de la tête
+- Atterrir en douceur sur la pointe des pieds
+- Rythme régulier
+video_url: https://www.youtube.com/watch?v=UpH7rm0cYbM
+image_url: https://img.youtube.com/vi/UpH7rm0cYbM/hqdefault.jpg

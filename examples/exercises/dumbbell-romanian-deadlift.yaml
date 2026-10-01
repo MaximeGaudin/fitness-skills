@@ -1,0 +1,19 @@
+id: dumbbell-romanian-deadlift
+nom: Soulevé de terre roumain haltères
+nom_en: Dumbbell Romanian deadlift
+description: Soulevé de terre roumain avec haltères. Même mécanique que la version
+  barre.
+groupe: jambes
+muscles_principaux:
+- ischio-jambiers
+- grand fessier
+muscles_secondaires:
+- érecteurs du rachis
+equipement:
+- dumbbells
+cues:
+- Haltères glissent le long des cuisses
+- Dos plat, pousser les fesses en arrière
+- Sentir l'étirement des ischio-jambiers
+video_url: null
+image_url: null

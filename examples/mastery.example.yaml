@@ -1,0 +1,55 @@
+# Exercise mastery registry (example).
+#
+# Copy to $MEMORY_DIR/fitness/mastery.yaml.
+# Each entry references an exercise by id (data/exercises/<id>.yaml).
+#
+# status:
+#   mastered -> can be used anywhere in a WOD (warm-up, main blocks)
+#   learning -> introduced in a technical slot, not yet cleared for main blocks
+#
+# Rule: exercises absent from this file are never programmed.
+# Keep the full history: set introduced_date when adding as `learning`,
+# mastered_date when promoting to `mastered`.
+
+exercises:
+  - id: jumping-jacks
+    status: mastered
+    mastered_date: 2026-01-05
+
+  - id: air-squats
+    status: mastered
+    mastered_date: 2026-01-05
+
+  - id: push-ups
+    status: mastered
+    mastered_date: 2026-01-05
+
+  - id: front-plank
+    status: mastered
+    mastered_date: 2026-01-05
+
+  - id: bodyweight-lunges
+    status: mastered
+    mastered_date: 2026-01-05
+
+  - id: single-unders
+    status: mastered
+    mastered_date: 2026-01-05
+
+  - id: easy-run
+    status: mastered
+    mastered_date: 2026-01-05
+
+  - id: goblet-squat
+    status: mastered
+    introduced_date: 2026-01-07
+    mastered_date: 2026-01-12
+
+  - id: single-arm-dumbbell-row
+    status: mastered
+    introduced_date: 2026-01-09
+    mastered_date: 2026-01-14
+
+  - id: bench-press
+    status: learning
+    introduced_date: 2026-01-16

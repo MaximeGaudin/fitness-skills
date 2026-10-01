@@ -1,0 +1,22 @@
+id: pull-ups
+nom: Tractions pronation
+nom_en: Pull-ups
+description: Traction à la barre en prise pronation (paumes vers l'extérieur). Mouvement
+  roi pour le dos.
+groupe: dos
+muscles_principaux:
+- grand dorsal
+- grand rond
+muscles_secondaires:
+- biceps
+- rhomboïdes
+- trapèzes
+- avant-bras
+equipement:
+- rack
+cues:
+- Prise juste au-delà de la largeur d'épaules
+- Menton au-dessus de la barre, descente contrôlée 2 sec
+- Épaules engagées en bas (pas de dead hang passif)
+video_url: https://www.youtube.com/watch?v=sIvJTfGxdFo
+image_url: https://img.youtube.com/vi/sIvJTfGxdFo/hqdefault.jpg

@@ -1,0 +1,101 @@
+# Fictional example WOD. Follows skills/wod-generator/wod-schema.md.
+# Build it with:  python tv/build.py examples/wods/example.yaml \
+#   --exercises-dir examples/exercises --equipment examples/equipment.example.yaml
+date: "2026-01-19"
+day: monday
+type: strength
+title: "Push-Pull Foundations + Discover: Bench Press"
+format: AMRAP
+total_duration_minutes: 40
+
+warmup:
+  duration_minutes: 8
+  exercises:
+    - name: Joint mobility
+      duration_minutes: 2
+      notes: Neck, shoulders, wrists, hips, ankles. 10 circles each way, no effort.
+    - id: single-unders
+      duration_minutes: 2
+      notes: Easy to moderate.
+    - id: jumping-jacks
+      reps: 30
+    - id: air-squats
+      reps: 10
+      notes: Slow tempo, full depth.
+    - id: push-ups
+      reps: 8
+    - id: front-plank
+      duration_seconds: 30
+
+blocks:
+  - name: "Technical — Bench Press"
+    type: technical
+    duration_minutes: 8
+    exercise_id: bench-press
+    practice_sets:
+      - reps: 8
+        weight_kg: 0
+        notes: "Empty bar. Shoulder blades pinned, bar path to mid-chest."
+      - reps: 8
+        weight_kg: 0
+        notes: "Empty bar. 3-second descent, touch the chest."
+      - reps: 5
+        weight_kg: 10
+        notes: "Bar + 10 kg (5 kg/side). Keep the leg drive."
+
+  - name: "Main WOD — Push-Pull Triplet — x5 Rounds"
+    type: AMRAP
+    duration_minutes: 14
+    strategy: |
+      Target 4-5 rounds at a steady pace, about 3 minutes per round.
+      Bench sets stay unbroken at this load; rack it if form slips.
+      Rows: 8 per side, no torso twist.
+    exercises:
+      - id: bench-press
+        reps: 6
+        weight_kg: 10
+        notes: Bar + 10 kg. Form first.
+      - id: single-arm-dumbbell-row
+        reps: 16
+        weight_kg: 12
+        notes: 8 per side.
+      - id: goblet-squat
+        reps: 10
+        weight_kg: 14
+      - id: front-plank
+        duration_seconds: 30
+
+recovery_break:
+  duration_minutes: 3
+  notes: "Drink, breathe. Restart the watch before stretching."
+
+cooldown:
+  duration_minutes: 7
+  exercises:
+    - name: Doorway chest stretch
+      duration_seconds: 45
+      sides: 2
+    - name: Child's pose with lat reach
+      duration_seconds: 45
+      sides: 2
+    - name: Couch stretch (quads / hip flexors)
+      duration_seconds: 45
+      sides: 2
+    - name: Seated hamstring stretch
+      duration_seconds: 45
+      sides: 2
+
+strategy: >
+  Target: 4-5 rounds. Bench sets should stay unbroken at this load.
+  Use the squats as active recovery for the upper body. Keep 1-2 reps in reserve.
+
+summary:
+  target_muscles: [chest, upper back, quadriceps, core]
+  split: full-body
+  estimated_intensity: moderate
+  new_exercise_introduced: bench-press
+  benchmark: false
+  progression_notes: >
+    First bench press exposure: empty bar, then 10 kg of plates.
+    Rows and goblet squats go up one dumbbell step from last week.
+    Log the AMRAP round count as a baseline.

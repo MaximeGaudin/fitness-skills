@@ -1,0 +1,17 @@
+id: cable-wrist-curl
+nom: Curl poignet à la poulie basse
+nom_en: Cable wrist curl
+description: Flexion du poignet assis à la poulie basse. Renforcement des avant-bras.
+groupe: bras
+muscles_principaux:
+- fléchisseurs du poignet
+muscles_secondaires:
+- avant-bras
+equipement:
+- cable-machine
+cues:
+- Avant-bras posés sur les cuisses, poignets en dehors
+- Seuls les poignets bougent
+- Amplitude complète
+video_url: null
+image_url: null

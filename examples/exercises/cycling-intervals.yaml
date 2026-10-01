@@ -1,0 +1,19 @@
+id: cycling-intervals
+nom: Intervalles vélo (HIIT)
+nom_en: Cycling intervals
+description: Intervalles haute intensité sur home trainer. Alternance effort/récupération.
+groupe: cardio
+muscles_principaux:
+- quadriceps
+- ischio-jambiers
+- mollets
+muscles_secondaires:
+- grand fessier
+equipement:
+- bike-trainer
+cues:
+- Sprint 30s puis récup 30-60s
+- Résistance haute pendant les sprints
+- Ne pas sacrifier la technique pour la vitesse
+video_url: null
+image_url: null

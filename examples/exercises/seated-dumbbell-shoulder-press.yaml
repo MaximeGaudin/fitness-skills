@@ -1,0 +1,21 @@
+id: seated-dumbbell-shoulder-press
+nom: Développé épaules haltères assis
+nom_en: Seated dumbbell shoulder press
+description: Développé vertical assis avec haltères. Travaille les trois faisceaux
+  du deltoïde.
+groupe: épaules
+muscles_principaux:
+- deltoïdes antérieurs
+- deltoïdes latéraux
+muscles_secondaires:
+- triceps
+- trapèzes
+equipement:
+- dumbbells
+- bench
+cues:
+- Dos calé contre le dossier
+- Haltères à hauteur d'oreilles en bas
+- Pousser droit au-dessus de la tête
+video_url: null
+image_url: null

@@ -1,0 +1,18 @@
+id: cable-glute-kickback
+nom: Kickback fessier à la poulie basse
+nom_en: Cable glute kickback
+description: Extension de hanche debout, cheville attachée à la poulie basse. Isolation
+  du grand fessier.
+groupe: jambes
+muscles_principaux:
+- grand fessier
+muscles_secondaires:
+- ischio-jambiers
+equipement:
+- cable-machine
+cues:
+- Jambe tendue, pousser le talon vers l'arrière
+- Ne pas cambrer le dos, contracter les abdos
+- Mouvement contrôlé, pas de balancement
+video_url: null
+image_url: null

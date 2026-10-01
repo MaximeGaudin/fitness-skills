@@ -1,0 +1,22 @@
+id: jab-cross
+nom: Direct (jab + cross)
+nom_en: Jab / Cross
+description: 'Combinaison de base : direct avant (jab) + direct arrière (cross). Frappe
+  poings.'
+groupe: frappe
+muscles_principaux:
+- deltoïdes
+- pectoraux
+- triceps
+muscles_secondaires:
+- core
+- biceps
+- avant-bras
+equipement:
+- punching-bag
+cues:
+- 'Garde : mains aux pommettes, menton baissé'
+- Jab = bras avant rapide, cross = rotation du bassin
+- Revenir en garde après chaque frappe
+video_url: null
+image_url: null

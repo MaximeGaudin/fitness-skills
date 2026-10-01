@@ -1,0 +1,21 @@
+id: wall-ball-shot
+nom: Wall ball shot
+nom_en: Wall-ball shot
+description: Squat puis lancer le medecine ball vers une cible murale. Enchaînement jambes + épaules.
+groupe: full-body
+muscles_principaux:
+- quadriceps
+- deltoïdes antérieurs
+- grand fessier
+muscles_secondaires:
+- triceps
+- core
+- mollets
+equipement:
+- wall-ball
+cues:
+- Squat sous parallèle, coudes près du corps, ball contre la poitrine
+- Extension explosive jambes + bras — le squat fait le travail, pas seulement les bras
+- Viser la cible (~3 m), réceptionner en squat pour enchaîner
+video_url: https://www.youtube.com/watch?v=fpUD0mc2uwo
+image_url: https://img.youtube.com/vi/fpUD0mc2uwo/hqdefault.jpg

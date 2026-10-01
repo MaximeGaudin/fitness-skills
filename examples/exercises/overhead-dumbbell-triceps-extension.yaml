@@ -1,0 +1,18 @@
+id: overhead-dumbbell-triceps-extension
+nom: Extension triceps haltère au-dessus de la tête
+nom_en: Overhead dumbbell triceps extension
+description: Extension verticale des triceps avec un haltère tenu à deux mains au-dessus
+  de la tête.
+groupe: bras
+muscles_principaux:
+- triceps
+muscles_secondaires:
+- anconé
+equipement:
+- dumbbells
+cues:
+- Coudes pointés vers le plafond, serrés
+- Descendre l'haltère derrière la tête
+- Extension complète en haut
+video_url: null
+image_url: null

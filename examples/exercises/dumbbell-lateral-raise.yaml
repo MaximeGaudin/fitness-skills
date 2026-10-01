@@ -1,0 +1,17 @@
+id: dumbbell-lateral-raise
+nom: Élévations latérales haltères
+nom_en: Dumbbell lateral raise
+description: Élévation latérale des bras avec haltères. Isolation du deltoïde latéral.
+groupe: épaules
+muscles_principaux:
+- deltoïde latéral
+muscles_secondaires:
+- trapèzes supérieurs
+equipement:
+- dumbbells
+cues:
+- Bras légèrement fléchis, monter jusqu'à l'horizontale
+- Coude légèrement plus haut que le poignet
+- Charge légère, ne pas hausser les épaules
+video_url: null
+image_url: null

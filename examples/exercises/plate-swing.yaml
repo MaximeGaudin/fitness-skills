@@ -1,0 +1,20 @@
+id: plate-swing
+nom: Swing (disque)
+nom_en: Plate swing
+description: Swing avec disque à poignées. Mouvement balistique de la chaîne postérieure.
+groupe: jambes / cardio
+muscles_principaux:
+- grand fessier
+- ischio-jambiers
+muscles_secondaires:
+- érecteurs du rachis
+- core
+- deltoïdes
+equipement:
+- handle-plates
+cues:
+- Mouvement de hanche explosive, pas de bras
+- Dos plat, regard devant
+- Disque à hauteur d'épaules en haut du swing
+video_url: https://www.youtube.com/watch?v=FDn96TMfxbM
+image_url: https://img.youtube.com/vi/FDn96TMfxbM/hqdefault.jpg

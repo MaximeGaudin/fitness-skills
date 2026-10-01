@@ -1,0 +1,21 @@
+id: plate-overhead-carry
+nom: Overhead carry / marche (disque)
+nom_en: Plate overhead carry
+description: Marche avec le disque tenu bras tendus au-dessus de la tête. Stabilité
+  et core.
+groupe: épaules / core
+muscles_principaux:
+- deltoïdes
+- trapèzes
+- core
+muscles_secondaires:
+- triceps
+- érecteurs du rachis
+equipement:
+- handle-plates
+cues:
+- Bras tendus et verrouillés au-dessus de la tête
+- Côtes rentrées, abdos serrés
+- Pas courts et contrôlés
+video_url: null
+image_url: null

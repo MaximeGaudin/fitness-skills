@@ -1,0 +1,19 @@
+id: standing-barbell-curl
+nom: Curl barre debout
+nom_en: Standing barbell curl
+description: Curl biceps classique à la barre droite. Mouvement de base pour les biceps.
+groupe: bras
+muscles_principaux:
+- biceps
+muscles_secondaires:
+- brachial
+- brachio-radial
+equipement:
+- barbell
+- plates
+cues:
+- Coudes fixes le long du corps
+- Ne pas balancer le buste
+- Extension complète en bas, contraction en haut
+video_url: null
+image_url: null

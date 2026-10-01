@@ -1,0 +1,19 @@
+id: dumbbell-lunges
+nom: Fentes haltères
+nom_en: Dumbbell lunges
+description: Fentes avant ou marchées avec haltères le long du corps.
+groupe: jambes
+muscles_principaux:
+- quadriceps
+- grand fessier
+muscles_secondaires:
+- ischio-jambiers
+- adducteurs
+equipement:
+- dumbbells
+cues:
+- Haltères le long du corps, bras tendus
+- Pas long, genou arrière vers le sol
+- Buste droit, pousser avec le talon avant
+video_url: null
+image_url: null

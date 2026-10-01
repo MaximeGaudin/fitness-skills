@@ -1,0 +1,18 @@
+id: sit-ups
+nom: Sit-ups
+nom_en: Sit-ups
+description: Redressement assis complet depuis la position allongée. Travail du grand
+  droit de l'abdomen.
+groupe: abdominaux
+muscles_principaux:
+- grand droit de l'abdomen
+muscles_secondaires:
+- psoas-iliaque
+- obliques
+equipement: []
+cues:
+- Contrôler la descente (pas se laisser tomber)
+- Expirer en montant
+- Pieds au sol, genoux fléchis
+video_url: null
+image_url: null

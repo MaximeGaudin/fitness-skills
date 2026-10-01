@@ -1,0 +1,20 @@
+id: upright-row
+nom: Tirage menton
+nom_en: Upright row
+description: Tirage vertical de la poulie basse vers le menton. Travaille épaules
+  et trapèzes.
+groupe: épaules
+muscles_principaux:
+- deltoïdes latéraux
+- trapèzes supérieurs
+muscles_secondaires:
+- biceps
+- deltoïdes antérieurs
+equipement:
+- cable-machine
+cues:
+- Coudes montent plus haut que les mains
+- Ne pas monter au-dessus des épaules (risque impingement)
+- Mouvement contrôlé, pas d'élan
+video_url: null
+image_url: null

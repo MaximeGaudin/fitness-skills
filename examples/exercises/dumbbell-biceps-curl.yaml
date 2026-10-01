@@ -1,0 +1,18 @@
+id: dumbbell-biceps-curl
+nom: Curl biceps haltères
+nom_en: Dumbbell biceps curl
+description: Curl biceps classique avec haltères. Peut être fait debout ou assis.
+groupe: bras
+muscles_principaux:
+- biceps
+muscles_secondaires:
+- brachial
+- brachio-radial
+equipement:
+- dumbbells
+cues:
+- Coudes fixes le long du corps
+- Supination complète en haut (tourner le poignet)
+- Descente contrôlée, extension complète
+video_url: null
+image_url: null

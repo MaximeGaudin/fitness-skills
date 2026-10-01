@@ -1,0 +1,19 @@
+id: bodyweight-lunges
+nom: Fentes au poids de corps
+nom_en: Bodyweight lunges
+description: Fentes avant ou marchées sans charge. Travail unilatéral des jambes et
+  de l'équilibre.
+groupe: jambes
+muscles_principaux:
+- quadriceps
+- grand fessier
+muscles_secondaires:
+- ischio-jambiers
+- adducteurs
+equipement: []
+cues:
+- Genou arrière descend vers le sol sans le toucher
+- Genou avant ne dépasse pas excessivement la pointe du pied
+- Buste droit, regard devant
+video_url: https://www.youtube.com/watch?v=-_270H-3Wrc
+image_url: https://img.youtube.com/vi/-_270H-3Wrc/hqdefault.jpg

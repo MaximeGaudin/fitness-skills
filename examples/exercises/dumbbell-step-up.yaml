@@ -1,0 +1,19 @@
+id: dumbbell-step-up
+nom: Step-up haltères
+nom_en: Dumbbell step-up
+description: Montée sur un banc avec haltères. Mouvement unilatéral pour les jambes.
+groupe: jambes
+muscles_principaux:
+- quadriceps
+- grand fessier
+muscles_secondaires:
+- ischio-jambiers
+equipement:
+- dumbbells
+- bench
+cues:
+- Pied entier sur le banc
+- Pousser avec la jambe sur le banc (pas se propulser avec l'autre)
+- Contrôler la descente
+video_url: null
+image_url: null

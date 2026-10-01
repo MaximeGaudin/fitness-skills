@@ -1,0 +1,22 @@
+id: romanian-deadlift
+nom: Soulevé de terre roumain
+nom_en: Romanian deadlift
+description: Soulevé de terre jambes quasi tendues. Étirement des ischio-jambiers
+  sous charge.
+groupe: jambes / dos
+muscles_principaux:
+- ischio-jambiers
+- grand fessier
+- érecteurs du rachis
+muscles_secondaires:
+- trapèzes
+- avant-bras
+equipement:
+- barbell
+- plates
+cues:
+- Jambes quasi tendues (léger fléchissement genoux)
+- Pousser les fesses en arrière, barre glisse le long des cuisses
+- Descendre jusqu'à sentir l'étirement des ischios, dos plat
+video_url: https://www.youtube.com/watch?v=k6cUaJasD5U
+image_url: https://img.youtube.com/vi/k6cUaJasD5U/hqdefault.jpg

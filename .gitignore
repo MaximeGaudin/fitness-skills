@@ -1,0 +1,30 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Garmin session tokens (if ever created inside the repo)
+.garminconnect/
+
+# TV build output
+tv/dist/
+tv/index.html
+
+# Personal data: keep it in $MEMORY_DIR, never in this repo
+/data/
+/wods/
+/activities/
+/routes/
+/goal.md
+/mastery.yaml
+*.gpx
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/

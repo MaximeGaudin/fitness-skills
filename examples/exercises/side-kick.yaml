@@ -1,0 +1,19 @@
+id: side-kick
+nom: Side kick
+nom_en: Side kick
+description: Coup de pied latéral. Puissance générée par la poussée de la hanche.
+groupe: frappe
+muscles_principaux:
+- moyen fessier
+- quadriceps
+muscles_secondaires:
+- obliques
+- adducteurs
+equipement:
+- punching-bag
+cues:
+- Monter le genou, pivoter le pied d'appui, pousser latéralement
+- Frapper avec le tranchant du pied ou le talon
+- Garder la garde haute
+video_url: null
+image_url: null

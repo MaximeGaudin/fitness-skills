@@ -1,0 +1,18 @@
+id: incline-dumbbell-fly
+nom: Écartés inclinés
+nom_en: Incline dumbbell fly
+description: Écartés sur banc incliné. Isolation du haut des pectoraux.
+groupe: poitrine
+muscles_principaux:
+- pectoraux (haut)
+muscles_secondaires:
+- deltoïdes antérieurs
+equipement:
+- dumbbells
+- bench
+cues:
+- Même mouvement que les écartés couchés, banc incliné
+- Coudes fléchis à angle constant
+- Charge plus légère que sur banc plat
+video_url: null
+image_url: null

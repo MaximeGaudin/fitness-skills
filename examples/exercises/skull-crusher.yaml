@@ -1,0 +1,20 @@
+id: skull-crusher
+nom: Skull crusher (extension triceps couché)
+nom_en: Skull crusher
+description: Extension des triceps couché, barre descendue vers le front. Isolation
+  des triceps.
+groupe: bras
+muscles_principaux:
+- triceps
+muscles_secondaires:
+- anconé
+equipement:
+- bench
+- barbell
+- plates
+cues:
+- Coudes pointés vers le plafond, immobiles
+- Barre descend vers le front (pas derrière la tête)
+- Extension complète, charge modérée
+video_url: null
+image_url: null

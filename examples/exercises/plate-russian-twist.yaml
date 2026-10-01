@@ -1,0 +1,19 @@
+id: plate-russian-twist
+nom: Rotation russe (disque)
+nom_en: Plate Russian twist
+description: Assis au sol, pieds levés, rotation du buste avec le disque. Travail
+  des obliques.
+groupe: abdominaux
+muscles_principaux:
+- obliques
+muscles_secondaires:
+- grand droit de l'abdomen
+- psoas-iliaque
+equipement:
+- handle-plates
+cues:
+- Pieds décollés du sol (ou posés pour débuter)
+- Rotation complète d'un côté à l'autre
+- Dos à 45°, poitrine ouverte
+video_url: null
+image_url: null

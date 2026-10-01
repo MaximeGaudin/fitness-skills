@@ -1,0 +1,22 @@
+id: roundhouse-kick
+nom: Coup de pied circulaire (roundhouse kick)
+nom_en: Roundhouse kick
+description: Coup de pied circulaire avec le tibia. Le coup de pied le plus courant
+  en kickboxing.
+groupe: frappe
+muscles_principaux:
+- quadriceps
+- grand fessier
+- adducteurs
+muscles_secondaires:
+- ischio-jambiers
+- obliques
+- mollets
+equipement:
+- punching-bag
+cues:
+- Pivoter sur le pied d'appui, hanche ouverte
+- Frapper avec le tibia, pas le pied
+- Garde haute pendant le coup
+video_url: null
+image_url: null

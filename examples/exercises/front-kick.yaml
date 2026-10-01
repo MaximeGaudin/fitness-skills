@@ -1,0 +1,19 @@
+id: front-kick
+nom: Front kick
+nom_en: Front kick
+description: Coup de pied frontal poussé. Mouvement linéaire vers l'avant.
+groupe: frappe
+muscles_principaux:
+- quadriceps
+- psoas-iliaque
+muscles_secondaires:
+- abdominaux
+- mollets
+equipement:
+- punching-bag
+cues:
+- Monter le genou puis étendre la jambe
+- Frapper avec la plante du pied ou le talon
+- Ramener la jambe vite après l'impact
+video_url: null
+image_url: null

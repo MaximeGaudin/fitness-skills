@@ -1,0 +1,21 @@
+id: wide-grip-lat-pulldown
+nom: Tirage vertical prise large
+nom_en: Wide-grip lat pulldown
+description: Tirage de la barre EZ vers la poitrine en prise large à la poulie haute.
+  Mouvement principal pour le dos.
+groupe: dos
+muscles_principaux:
+- grand dorsal
+- grand rond
+muscles_secondaires:
+- biceps
+- rhomboïdes
+- trapèzes bas
+equipement:
+- cable-machine
+cues:
+- Tirer la barre vers le haut de la poitrine, pas derrière la nuque
+- Omoplates serrées en bas du mouvement
+- Buste légèrement incliné en arrière, pas d'élan
+video_url: null
+image_url: null

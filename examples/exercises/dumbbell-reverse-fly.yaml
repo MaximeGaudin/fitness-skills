@@ -1,0 +1,19 @@
+id: dumbbell-reverse-fly
+nom: Oiseau (reverse fly) haltères
+nom_en: Dumbbell reverse fly
+description: Écartés inversés buste penché. Cible les deltoïdes postérieurs et le
+  haut du dos.
+groupe: épaules / dos
+muscles_principaux:
+- deltoïdes postérieurs
+- rhomboïdes
+muscles_secondaires:
+- trapèzes
+equipement:
+- dumbbells
+cues:
+- Buste penché à 45° minimum ou appuyé sur banc incliné
+- Ouvrir les bras en arc, serrer les omoplates
+- Charge très légère
+video_url: null
+image_url: null

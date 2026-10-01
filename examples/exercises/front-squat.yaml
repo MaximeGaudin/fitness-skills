@@ -1,0 +1,22 @@
+id: front-squat
+nom: Squat barre devant (front squat)
+nom_en: Front squat
+description: Squat avec barre sur les clavicules. Demande plus de mobilité, recrute
+  davantage les quadriceps.
+groupe: jambes
+muscles_principaux:
+- quadriceps
+- grand fessier
+muscles_secondaires:
+- core
+- érecteurs du rachis
+equipement:
+- rack
+- barbell
+- plates
+cues:
+- Barre sur les deltoïdes/clavicules, coudes hauts
+- Buste le plus vertical possible
+- Mobilité poignets et thoracique nécessaire
+video_url: https://www.youtube.com/watch?v=m4ytaCJZpl0
+image_url: https://img.youtube.com/vi/m4ytaCJZpl0/hqdefault.jpg

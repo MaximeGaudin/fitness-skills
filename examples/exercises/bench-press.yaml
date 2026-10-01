@@ -1,0 +1,21 @@
+id: bench-press
+nom: Développé couché
+nom_en: Bench press
+description: Développé couché à la barre sur banc plat. Mouvement roi pour les pectoraux.
+groupe: poitrine
+muscles_principaux:
+- pectoraux
+muscles_secondaires:
+- deltoïdes antérieurs
+- triceps
+equipement:
+- rack
+- bench
+- barbell
+- plates
+cues:
+- Omoplates serrées et enfoncées dans le banc
+- Barre au niveau des tétons
+- Pieds bien à plat, leg drive actif
+video_url: https://www.youtube.com/watch?v=SCVCLChPQFY
+image_url: https://img.youtube.com/vi/SCVCLChPQFY/hqdefault.jpg

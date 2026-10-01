@@ -1,0 +1,19 @@
+id: reverse-preacher-curl
+nom: Curl inversé au pupitre
+nom_en: Reverse preacher curl
+description: Curl au pupitre en prise pronation (paumes vers le bas). Cible le brachio-radial
+  et les extenseurs.
+groupe: bras
+muscles_principaux:
+- brachio-radial
+- extenseurs du poignet
+muscles_secondaires:
+- biceps
+equipement:
+- cable-machine
+cues:
+- Paumes vers le bas (pronation)
+- Même position que le curl classique
+- Charge plus légère que le curl standard
+video_url: null
+image_url: null

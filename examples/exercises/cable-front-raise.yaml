@@ -1,0 +1,18 @@
+id: cable-front-raise
+nom: Élévation frontale à la poulie basse
+nom_en: Cable front raise
+description: Élévation frontale à la poulie basse. Isolation du deltoïde antérieur.
+groupe: épaules
+muscles_principaux:
+- deltoïde antérieur
+muscles_secondaires:
+- trapèzes
+- pectoraux (haut)
+equipement:
+- cable-machine
+cues:
+- Bras quasi tendus, monter à hauteur d'épaules
+- Ne pas cambrer le dos
+- Descente lente et contrôlée
+video_url: null
+image_url: null

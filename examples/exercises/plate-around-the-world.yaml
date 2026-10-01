@@ -1,0 +1,20 @@
+id: plate-around-the-world
+nom: Around the world (disque)
+nom_en: Plate around the world
+description: Faire tourner le disque autour de la tête. Mobilité et stabilité des
+  épaules.
+groupe: épaules / core
+muscles_principaux:
+- deltoïdes
+- core
+muscles_secondaires:
+- obliques
+- trapèzes
+equipement:
+- handle-plates
+cues:
+- Cercle large autour de la tête
+- Abdos serrés, ne pas cambrer
+- Alterner le sens de rotation
+video_url: null
+image_url: null

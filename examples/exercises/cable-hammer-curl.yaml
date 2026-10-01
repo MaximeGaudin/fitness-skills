@@ -1,0 +1,19 @@
+id: cable-hammer-curl
+nom: Curl biceps prise marteau à la poulie basse
+nom_en: Cable hammer curl
+description: Curl en prise neutre (marteau) à la poulie basse via la chaîne. Cible
+  le brachial.
+groupe: bras
+muscles_principaux:
+- brachial
+- brachio-radial
+muscles_secondaires:
+- biceps
+equipement:
+- cable-machine
+cues:
+- Prise neutre (paumes face à face)
+- Coudes immobiles
+- Mouvement lent et contrôlé
+video_url: null
+image_url: null

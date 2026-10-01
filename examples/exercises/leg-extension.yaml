@@ -1,0 +1,16 @@
+id: leg-extension
+nom: Extension de jambes (leg extension)
+nom_en: Leg extension
+description: Extension des jambes sur le leg developer. Isolation des quadriceps.
+groupe: jambes
+muscles_principaux:
+- quadriceps
+muscles_secondaires: []
+equipement:
+- cable-machine
+cues:
+- Dos bien calé contre le dossier
+- Extension complète, contraction 1 sec en haut
+- Descente contrôlée, ne pas laisser tomber
+video_url: null
+image_url: null

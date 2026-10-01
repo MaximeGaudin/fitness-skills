@@ -1,0 +1,19 @@
+id: steady-state-cycling
+nom: Vélo endurance
+nom_en: Steady-state cycling
+description: Vélo d'intérieur à allure constante modérée. Cardio basse intensité.
+groupe: cardio
+muscles_principaux:
+- quadriceps
+- ischio-jambiers
+- mollets
+muscles_secondaires:
+- grand fessier
+equipement:
+- bike-trainer
+cues:
+- Cadence 80-90 rpm
+- Résistance modérée
+- Rester en zone cardiaque 1-2
+video_url: null
+image_url: null

@@ -1,0 +1,18 @@
+id: barbell-standing-calf-raise
+nom: Mollets debout à la barre
+nom_en: Barbell standing calf raise
+description: Montée sur les pointes avec barre sur le dos.
+groupe: jambes
+muscles_principaux:
+- mollets (gastrocnémiens)
+muscles_secondaires:
+- soléaire
+equipement:
+- barbell
+- plates
+cues:
+- Montée lente, pause en haut
+- Descente complète sous le niveau du sol si possible
+- Charge modérée, contrôle de la cheville
+video_url: null
+image_url: null

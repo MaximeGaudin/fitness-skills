@@ -1,0 +1,71 @@
+# Fictional example WOD (heavy EMOM). Follows skills/wod-generator/wod-schema.md.
+date: "2026-01-21"
+day: wednesday
+type: strength
+title: "Heavy Squat Day"
+format: EMOM
+total_duration_minutes: 32
+
+warmup:
+  duration_minutes: 6
+  exercises:
+    - id: jumping-jacks
+      reps: 30
+    - id: air-squats
+      reps: 15
+      notes: Slow tempo, focus on depth.
+    - id: bodyweight-lunges
+      reps: 10
+    - id: front-plank
+      duration_seconds: 30
+
+blocks:
+  - name: "Heavy EMOM — Goblet Squat + Row"
+    type: EMOM
+    duration_minutes: 16
+    rounds: 8
+    interval_seconds: 120
+    strategy: |
+      Every 2 minutes: squats, then rows. About 40 s of work, the rest is recovery.
+      If depth or back position breaks, stop the set and reset.
+    exercises:
+      - id: goblet-squat
+        reps: 6
+        weight_kg: 16
+        notes: 2-second descent, drive up.
+      - id: single-arm-dumbbell-row
+        reps: 12
+        weight_kg: 12
+        notes: 6 per side.
+
+recovery_break:
+  duration_minutes: 3
+
+cooldown:
+  duration_minutes: 6
+  exercises:
+    - name: Standing quad stretch
+      duration_seconds: 45
+      sides: 2
+    - name: Pigeon stretch (glutes)
+      duration_seconds: 45
+      sides: 2
+    - name: Seated hamstring stretch
+      duration_seconds: 45
+      sides: 2
+    - name: Thread the needle (upper back)
+      duration_seconds: 45
+      sides: 2
+
+strategy: >
+  Heavy day, quality over speed. Expect the legs to feel heavy by round 5;
+  keep the depth, do not cut reps short.
+
+summary:
+  target_muscles: [quadriceps, glutes, upper back, core]
+  split: legs
+  estimated_intensity: hard
+  new_exercise_introduced: null
+  benchmark: false
+  progression_notes: >
+    Goblet squat +2 kg vs last session. Next time: +2 kg if all 8 rounds are clean.

@@ -1,0 +1,23 @@
+id: overhead-press
+nom: Développé militaire debout
+nom_en: Overhead press
+description: Développé vertical à la barre debout. Mouvement composé fondamental pour
+  les épaules.
+groupe: épaules
+muscles_principaux:
+- deltoïdes antérieurs
+- deltoïdes latéraux
+muscles_secondaires:
+- triceps
+- trapèzes
+- core
+equipement:
+- rack
+- barbell
+- plates
+cues:
+- Barre au niveau des clavicules au départ
+- Pousser droit au-dessus de la tête, finir oreilles entre les bras
+- Gainer le core, fessiers serrés, pas de cambrure
+video_url: https://www.youtube.com/watch?v=8dacy5hjaE8
+image_url: https://img.youtube.com/vi/8dacy5hjaE8/hqdefault.jpg

@@ -1,0 +1,21 @@
+id: close-grip-lat-pulldown
+nom: Tirage vertical prise serrée
+nom_en: Close-grip lat pulldown
+description: Tirage vertical mains rapprochées. Accentue le travail du bas du grand
+  dorsal.
+groupe: dos
+muscles_principaux:
+- grand dorsal
+- grand rond
+muscles_secondaires:
+- biceps
+- rhomboïdes
+- trapèzes bas
+equipement:
+- cable-machine
+cues:
+- Mains rapprochées au centre de la barre
+- Coudes serrés le long du corps
+- Contracter le dos en bas, contrôler la remontée
+video_url: null
+image_url: null

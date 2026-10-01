@@ -1,0 +1,23 @@
+id: elliptical-intervals
+nom: Elliptique intervalles
+nom_en: Elliptical intervals
+description: Intervalles haute intensité sur elliptique.
+groupe: cardio
+muscles_principaux:
+- quadriceps
+- ischio-jambiers
+- grand fessier
+muscles_secondaires:
+- pectoraux
+- grand dorsal
+- biceps
+- triceps
+- mollets
+equipement:
+- elliptical
+cues:
+- Alterner résistance haute/basse
+- Maintenir la posture pendant les efforts
+- Respirer régulièrement
+video_url: null
+image_url: null

@@ -1,0 +1,20 @@
+id: reverse-grip-lat-pulldown
+nom: Tirage vertical prise supination
+nom_en: Reverse-grip lat pulldown
+description: Tirage vertical paumes vers soi. Recrute davantage les biceps en plus
+  du dos.
+groupe: dos
+muscles_principaux:
+- grand dorsal
+- biceps
+muscles_secondaires:
+- rhomboïdes
+- trapèzes bas
+equipement:
+- cable-machine
+cues:
+- Paumes vers soi, prise largeur d'épaules
+- Tirer vers le sternum
+- Ne pas se pencher excessivement en arrière
+video_url: null
+image_url: null

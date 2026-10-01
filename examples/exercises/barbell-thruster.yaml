@@ -1,0 +1,24 @@
+id: barbell-thruster
+nom: Thruster barre
+nom_en: Barbell thruster
+description: Squat avant + développé au-dessus de la tête en un mouvement fluide. Couplet
+  full-body classique CrossFit.
+groupe: full body
+muscles_principaux:
+- quadriceps
+- grand fessier
+- deltoïdes antérieurs
+muscles_secondaires:
+- triceps
+- core
+- trapèzes
+equipement:
+- rack
+- barbell
+- plates
+cues:
+- Rack avant — coudes hauts, buste vertical
+- Squat sous parallèle puis pousser le sol et enchaîner le press sans pause
+- Finir bras tendus au-dessus de la tête, core gainé
+video_url: null
+image_url: null

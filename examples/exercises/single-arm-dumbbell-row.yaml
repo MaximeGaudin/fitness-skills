@@ -1,0 +1,21 @@
+id: single-arm-dumbbell-row
+nom: Rowing haltère un bras
+nom_en: Single-arm dumbbell row
+description: Tirage horizontal unilatéral avec haltère, un genou et une main sur le
+  banc.
+groupe: dos
+muscles_principaux:
+- grand dorsal
+- rhomboïdes
+muscles_secondaires:
+- biceps
+- trapèzes
+equipement:
+- dumbbells
+- bench
+cues:
+- Dos plat, parallèle au sol
+- Tirer le coude vers la hanche, pas vers l'épaule
+- Ne pas tourner le buste
+video_url: null
+image_url: null

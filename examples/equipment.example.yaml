@@ -1,0 +1,83 @@
+# Equipment inventory (example).
+#
+# Copy to $MEMORY_DIR/fitness/data/equipment.yaml and describe YOUR gear.
+# The `id` values are referenced by the `equipement` list of each exercise
+# file (examples/exercises/*.yaml). Remove what you don't own: the WOD skills
+# only program exercises whose equipment is listed here.
+#
+# Optional flags used by the TV timer (tv/build.py):
+#   always_out: true  -> never listed in the Setup / Cleanup checklists
+#                        (e.g. gear that is permanently installed)
+#   barbell: true     -> Setup screen shows "Load X kg (Y kg/side)" using the
+#                        heaviest barbell `weight_kg` of the session
+#                        (weight_kg = plates added, bar excluded)
+
+equipment:
+
+  - id: rack
+    name: Squat rack with pull-up bar
+    type: rack
+    always_out: true
+
+  - id: dip-bars
+    name: Dip bars (rack attachment)
+    type: rack accessory
+    requires: [rack]
+
+  - id: bench
+    name: Adjustable bench
+    type: bench
+    inclines: [-15, 0, 15, 30, 45, 60, 80]
+
+  - id: barbell
+    name: Barbell
+    type: barbell
+    barbell: true
+    weight_kg: 20
+
+  - id: plates
+    name: Weight plates
+    type: plates
+    total_kg: 100
+    always_out: true
+
+  - id: dumbbells
+    name: Adjustable dumbbells
+    type: dumbbells
+    max_per_dumbbell_kg: 20
+
+  - id: handle-plates
+    name: Plates with handles
+    type: plates / accessory
+    notes: Usable as a makeshift kettlebell for ballistic moves.
+
+  - id: cable-machine
+    name: Cable machine
+    type: cable / selectorized
+    stations: [high pulley, low pulley, pec deck / chest press, preacher curl, leg developer]
+
+  - id: punching-bag
+    name: Punching bag
+    type: punching bag
+
+  - id: bike-trainer
+    name: Indoor bike trainer
+    type: cardio
+
+  - id: elliptical
+    name: Elliptical trainer
+    type: cardio
+
+  - id: jump-rope
+    name: Jump rope
+    type: cardio / accessory
+
+  - id: plyo-box
+    name: Plyo box
+    type: plyo box
+    heights_cm: [40, 50, 60]
+
+  - id: wall-ball
+    name: Wall ball 6 kg
+    type: medicine ball
+    weight_kg: 6

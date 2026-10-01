@@ -1,0 +1,19 @@
+id: triceps-dips
+nom: Dips triceps (buste droit)
+nom_en: Triceps dips
+description: Dips buste vertical pour cibler les triceps. Moins de recrutement pectoral.
+groupe: bras
+muscles_principaux:
+- triceps
+muscles_secondaires:
+- pectoraux
+- deltoïdes antérieurs
+equipement:
+- dip-bars
+- rack
+cues:
+- Buste droit et vertical (pas penché en avant)
+- Coudes serrés le long du corps
+- Extension complète en haut
+video_url: null
+image_url: null

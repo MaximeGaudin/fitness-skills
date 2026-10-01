@@ -1,0 +1,16 @@
+id: bag-combos
+nom: Enchaînements (shadow boxing au sac)
+nom_en: Bag combos
+description: Enchaînements libres de coups de poing et pied sur le sac. Cardio + technique.
+groupe: frappe / cardio
+muscles_principaux:
+- full body
+muscles_secondaires: []
+equipement:
+- punching-bag
+cues:
+- Varier les combinaisons (jab-cross-hook, etc.)
+- Garder la garde, revenir en position après chaque combo
+- Rythme soutenu, respirer
+video_url: null
+image_url: null

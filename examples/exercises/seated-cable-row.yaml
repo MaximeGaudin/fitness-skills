@@ -1,0 +1,21 @@
+id: seated-cable-row
+nom: Rameur assis
+nom_en: Seated cable row
+description: Tirage horizontal assis à la poulie basse. Mouvement composé pour le
+  milieu du dos.
+groupe: dos
+muscles_principaux:
+- grand dorsal
+- rhomboïdes
+- trapèzes
+muscles_secondaires:
+- biceps
+- érecteurs du rachis
+equipement:
+- cable-machine
+cues:
+- Dos droit, poitrine sortie
+- Tirer les coudes en arrière, serrer les omoplates
+- Ne pas balancer le buste d'avant en arrière
+video_url: null
+image_url: null

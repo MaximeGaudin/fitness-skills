@@ -1,0 +1,20 @@
+id: reverse-barbell-curl
+nom: Curl barre prise inversée
+nom_en: Reverse barbell curl
+description: Curl avec prise pronation. Cible le brachio-radial et les extenseurs
+  du poignet.
+groupe: bras
+muscles_principaux:
+- brachio-radial
+- extenseurs du poignet
+muscles_secondaires:
+- biceps
+equipement:
+- barbell
+- plates
+cues:
+- Paumes vers le bas
+- Charge plus légère que le curl standard
+- Mouvement lent et contrôlé
+video_url: null
+image_url: null

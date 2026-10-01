@@ -1,0 +1,21 @@
+id: dumbbell-pullover
+nom: Pullover haltère
+nom_en: Dumbbell pullover
+description: Allongé sur le banc, descendre un haltère derrière la tête. Travaille
+  pectoraux et dorsaux.
+groupe: poitrine / dos
+muscles_principaux:
+- pectoraux
+- grand dorsal
+muscles_secondaires:
+- triceps (longue portion)
+- dentelé antérieur
+equipement:
+- dumbbells
+- bench
+cues:
+- Coudes légèrement fléchis, arc de cercle
+- Descendre l'haltère derrière la tête jusqu'à l'étirement
+- Remonter en contractant pecs et dorsaux
+video_url: null
+image_url: null

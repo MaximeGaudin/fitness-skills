@@ -1,0 +1,23 @@
+id: steady-state-elliptical
+nom: Elliptique endurance
+nom_en: Steady-state elliptical
+description: Vélo elliptique à allure constante. Cardio full-body à faible impact.
+groupe: cardio
+muscles_principaux:
+- quadriceps
+- ischio-jambiers
+- grand fessier
+muscles_secondaires:
+- pectoraux
+- grand dorsal
+- biceps
+- triceps
+- mollets
+equipement:
+- elliptical
+cues:
+- Posture droite, regard devant
+- Pousser ET tirer avec les bras
+- Résistance modérée
+video_url: https://www.youtube.com/watch?v=MvBqCRKlMG4
+image_url: https://img.youtube.com/vi/MvBqCRKlMG4/hqdefault.jpg

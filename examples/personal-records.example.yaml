@@ -1,0 +1,45 @@
+# Working weights & personal records (example, fictional values).
+#
+# Copy to $MEMORY_DIR/fitness/data/personal-records.yaml.
+# The WOD skills read it to prescribe exact loads and apply progressive overload.
+#
+# Fields per exercise:
+#   current_weight_kg: plates added to the bar (barbell) or weight per dumbbell
+#   total_weight_kg:   total load including the bar, when relevant
+#   reps_at_weight:    reps completed at this weight
+#   format:            context (AMRAP rounds, EMOM sets, ...)
+#   last_used:         date last programmed
+#   next_weight_kg:    planned load for the next session
+#   notes:             anything useful for the next prescription
+#
+# Progressive overload rules (defaults used by the skills):
+#   Upper body: +2.5 kg when all sets were completed with good form
+#   Lower body: +5 kg when all sets were completed with good form
+#   Failed session: keep the same weight
+
+exercises:
+
+  - id: goblet-squat
+    current_weight_kg: 12
+    reps_at_weight: 10
+    format: "AMRAP 4 rounds @ 10 reps"
+    last_used: "2026-01-12"
+    next_weight_kg: 14
+    notes: "Depth good, torso upright."
+
+  - id: single-arm-dumbbell-row
+    current_weight_kg: 10
+    reps_at_weight: 10
+    format: "EMOM 8 rounds @ 10 reps/side"
+    last_used: "2026-01-14"
+    next_weight_kg: 12
+    notes: ""
+
+  - id: bench-press
+    current_weight_kg: 10
+    total_weight_kg: 30
+    reps_at_weight: 5
+    format: "Technical slot, 3 practice sets"
+    last_used: "2026-01-16"
+    next_weight_kg: 10
+    notes: "Learning. Repeat the same load until the setup feels automatic."

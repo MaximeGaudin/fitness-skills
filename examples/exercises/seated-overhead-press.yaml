@@ -1,0 +1,22 @@
+id: seated-overhead-press
+nom: Développé militaire assis
+nom_en: Seated overhead press
+description: Développé vertical assis sur banc à 80°. Élimine la triche avec les jambes.
+groupe: épaules
+muscles_principaux:
+- deltoïdes antérieurs
+- deltoïdes latéraux
+muscles_secondaires:
+- triceps
+- trapèzes
+equipement:
+- rack
+- bench
+- barbell
+- plates
+cues:
+- Dos calé contre le dossier
+- Même trajectoire que debout
+- Ne pas cambrer le bas du dos
+video_url: null
+image_url: null

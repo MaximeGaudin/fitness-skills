@@ -1,0 +1,20 @@
+id: plate-halo
+nom: Halo (disque)
+nom_en: Plate halo
+description: Cercles autour de la tête avec le disque tenu près du visage. Échauffement
+  épaules.
+groupe: épaules
+muscles_principaux:
+- deltoïdes
+- trapèzes
+muscles_secondaires:
+- core
+- triceps
+equipement:
+- handle-plates
+cues:
+- Cercles serrés autour de la tête
+- Mouvement lent et contrôlé
+- Alterner le sens après chaque série
+video_url: null
+image_url: null

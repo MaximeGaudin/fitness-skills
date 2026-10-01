@@ -1,0 +1,18 @@
+id: cable-lateral-raise
+nom: Élévation latérale à la poulie basse
+nom_en: Cable lateral raise
+description: Élévation latérale d'un bras à la poulie basse. Tension constante sur
+  le deltoïde latéral.
+groupe: épaules
+muscles_principaux:
+- deltoïde latéral
+muscles_secondaires:
+- trapèzes supérieurs
+equipement:
+- cable-machine
+cues:
+- Bras légèrement fléchi, monter jusqu'à l'horizontale
+- Coude légèrement plus haut que le poignet
+- Ne pas hausser l'épaule
+video_url: null
+image_url: null

@@ -1,0 +1,17 @@
+id: bodyweight-calf-raises
+nom: Montées de mollets au poids de corps
+nom_en: Bodyweight calf raises
+description: Montée sur la pointe des pieds, redescente contrôlée. Renforcement des
+  mollets.
+groupe: jambes
+muscles_principaux:
+- mollets (gastrocnémiens)
+muscles_secondaires:
+- soléaire
+equipement: []
+cues:
+- Montée lente, contraction en haut 1 sec
+- Descente contrôlée sous le niveau du sol si possible (marche)
+- Cheville stable, pas de balancement
+video_url: null
+image_url: null

@@ -1,0 +1,19 @@
+id: plate-goblet-squat
+nom: Goblet squat (disque)
+nom_en: Plate goblet squat
+description: Goblet squat en tenant un disque avec poignées contre la poitrine.
+groupe: jambes
+muscles_principaux:
+- quadriceps
+- grand fessier
+muscles_secondaires:
+- adducteurs
+- core
+equipement:
+- handle-plates
+cues:
+- Disque contre la poitrine, coudes bas
+- Même mécanique que le goblet squat haltère
+- Descente profonde, dos droit
+video_url: null
+image_url: null

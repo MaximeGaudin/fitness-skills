@@ -1,0 +1,20 @@
+id: mountain-climbers
+nom: Mountain climbers
+nom_en: Mountain climbers
+description: En position de pompe, ramener alternativement les genoux vers la poitrine.
+  Cardio + core.
+groupe: cardio / core
+muscles_principaux:
+- psoas-iliaque
+- grand droit de l'abdomen
+muscles_secondaires:
+- deltoïdes
+- quadriceps
+- triceps
+equipement: []
+cues:
+- Mains sous les épaules, bras tendus
+- Dos plat, fesses basses
+- Rythme rapide mais contrôlé
+video_url: null
+image_url: null

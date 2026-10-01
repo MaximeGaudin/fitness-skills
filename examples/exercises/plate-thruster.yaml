@@ -1,0 +1,20 @@
+id: plate-thruster
+nom: Thruster (disque)
+nom_en: Plate thruster
+description: Squat + press en un mouvement fluide avec le disque. Exercice full-body.
+groupe: full body
+muscles_principaux:
+- quadriceps
+- grand fessier
+- deltoïdes
+muscles_secondaires:
+- triceps
+- core
+equipement:
+- handle-plates
+cues:
+- Squat complet puis poussée verticale sans pause
+- Utiliser l'élan des jambes pour pousser le disque
+- Extension complète bras + jambes en haut
+video_url: null
+image_url: null

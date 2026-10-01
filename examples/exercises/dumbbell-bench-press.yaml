@@ -1,0 +1,20 @@
+id: dumbbell-bench-press
+nom: Développé couché haltères
+nom_en: Dumbbell bench press
+description: Développé couché avec haltères. Plus grande amplitude et travail des
+  stabilisateurs.
+groupe: poitrine
+muscles_principaux:
+- pectoraux
+muscles_secondaires:
+- deltoïdes antérieurs
+- triceps
+equipement:
+- dumbbells
+- bench
+cues:
+- Même setup que le bench press barre (omoplates serrées)
+- Descendre les haltères de chaque côté de la poitrine
+- Les haltères ne se touchent pas en haut
+video_url: null
+image_url: null

@@ -1,0 +1,20 @@
+id: barbell-lunges
+nom: Fentes à la barre
+nom_en: Barbell lunges
+description: Fentes avant ou marchées avec barre sur le dos.
+groupe: jambes
+muscles_principaux:
+- quadriceps
+- grand fessier
+muscles_secondaires:
+- ischio-jambiers
+- adducteurs
+equipement:
+- barbell
+- plates
+cues:
+- Pas long, genou arrière vers le sol
+- Buste droit, barre stable
+- Pousser avec le talon de la jambe avant
+video_url: null
+image_url: null

@@ -1,0 +1,18 @@
+id: cable-hip-adduction
+nom: Adduction hanche à la poulie basse
+nom_en: Cable hip adduction
+description: Rapprochement de la jambe vers le centre à la poulie basse. Renforce
+  les adducteurs.
+groupe: jambes
+muscles_principaux:
+- adducteurs
+muscles_secondaires:
+- gracile
+equipement:
+- cable-machine
+cues:
+- Jambe tendue, croiser légèrement devant la jambe d'appui
+- Mouvement contrôlé, pas d'élan
+- Garder le buste droit
+video_url: null
+image_url: null

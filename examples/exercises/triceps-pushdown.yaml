@@ -1,0 +1,17 @@
+id: triceps-pushdown
+nom: Extension triceps à la poulie haute
+nom_en: Triceps pushdown
+description: Extension des bras vers le bas à la poulie haute. Isolation des triceps.
+groupe: bras
+muscles_principaux:
+- triceps
+muscles_secondaires:
+- anconé
+equipement:
+- cable-machine
+cues:
+- Coudes collés au corps, immobiles
+- Extension complète en bas, contraction 1 sec
+- Contrôler la remontée, ne pas laisser le poids tirer
+video_url: null
+image_url: null

@@ -1,0 +1,20 @@
+id: air-squats
+nom: Squats au poids de corps
+nom_en: Air squats
+description: 'Squat sans charge. Mouvement fondamental : descendre les hanches sous
+  les genoux en gardant le dos droit.'
+groupe: jambes
+muscles_principaux:
+- quadriceps
+- grand fessier
+muscles_secondaires:
+- ischio-jambiers
+- adducteurs
+- core
+equipement: []
+cues:
+- Descendre sous le parallèle (hanches sous les genoux)
+- Poids dans les talons, genoux dans l'axe des pieds
+- Poitrine haute, dos droit
+video_url: https://www.youtube.com/watch?v=C_VtOYc6j5c
+image_url: https://img.youtube.com/vi/C_VtOYc6j5c/hqdefault.jpg

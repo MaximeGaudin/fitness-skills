@@ -1,0 +1,17 @@
+id: dumbbell-standing-calf-raise
+nom: Mollets debout haltères
+nom_en: Dumbbell standing calf raise
+description: Montée sur les pointes avec haltères en main.
+groupe: jambes
+muscles_principaux:
+- mollets (gastrocnémiens)
+muscles_secondaires:
+- soléaire
+equipement:
+- dumbbells
+cues:
+- Montée lente, contraction en haut 1 sec
+- Descente complète
+- Unilatéral pour plus de difficulté
+video_url: null
+image_url: null

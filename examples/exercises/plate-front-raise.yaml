@@ -1,0 +1,18 @@
+id: plate-front-raise
+nom: Front raise (disque)
+nom_en: Plate front raise
+description: Élévation frontale avec le disque tenu à deux mains.
+groupe: épaules
+muscles_principaux:
+- deltoïde antérieur
+muscles_secondaires:
+- trapèzes
+- core
+equipement:
+- handle-plates
+cues:
+- Bras quasi tendus, monter à hauteur d'épaules
+- Ne pas cambrer le dos
+- Contrôler la descente
+video_url: null
+image_url: null

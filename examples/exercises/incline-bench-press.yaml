@@ -1,0 +1,21 @@
+id: incline-bench-press
+nom: Développé incliné
+nom_en: Incline bench press
+description: Développé couché incliné à la barre. Cible la partie haute des pectoraux.
+groupe: poitrine
+muscles_principaux:
+- pectoraux (haut)
+- deltoïdes antérieurs
+muscles_secondaires:
+- triceps
+equipement:
+- rack
+- bench
+- barbell
+- plates
+cues:
+- Banc à 30° idéalement
+- Barre descend vers le haut de la poitrine
+- Même setup omoplates que le bench press
+video_url: null
+image_url: null

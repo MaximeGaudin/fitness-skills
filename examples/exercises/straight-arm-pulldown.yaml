@@ -1,0 +1,19 @@
+id: straight-arm-pulldown
+nom: Tirage bras tendus
+nom_en: Straight-arm pulldown
+description: Tirage à bras tendus de la poulie haute vers les cuisses. Isolation du
+  grand dorsal sans biceps.
+groupe: dos
+muscles_principaux:
+- grand dorsal
+muscles_secondaires:
+- triceps (longue portion)
+- grand rond
+equipement:
+- cable-machine
+cues:
+- Bras quasi tendus (léger fléchissement coudes)
+- Mouvement en arc de cercle, barre vers les cuisses
+- Contracter le dos en bas du mouvement
+video_url: null
+image_url: null

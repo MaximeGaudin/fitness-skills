@@ -1,0 +1,19 @@
+id: concentration-curl
+nom: Curl concentré
+nom_en: Concentration curl
+description: Curl assis, coude calé à l'intérieur de la cuisse. Isolation maximale
+  du biceps.
+groupe: bras
+muscles_principaux:
+- biceps
+muscles_secondaires:
+- brachial
+equipement:
+- dumbbells
+- bench
+cues:
+- Coude calé contre l'intérieur de la cuisse
+- Extension complète en bas
+- Contraction en haut 1 sec
+video_url: null
+image_url: null

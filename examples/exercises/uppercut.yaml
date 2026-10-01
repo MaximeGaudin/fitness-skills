@@ -1,0 +1,21 @@
+id: uppercut
+nom: Uppercut
+nom_en: Uppercut
+description: Frappe remontante de bas en haut. Puissance générée par les jambes et
+  le bassin.
+groupe: frappe
+muscles_principaux:
+- deltoïdes
+- biceps
+- quadriceps
+muscles_secondaires:
+- core
+- pectoraux
+equipement:
+- punching-bag
+cues:
+- Fléchir les genoux, pousser vers le haut avec les jambes
+- Paume vers soi, rotation du bassin
+- Ne pas se pencher en avant
+video_url: null
+image_url: null

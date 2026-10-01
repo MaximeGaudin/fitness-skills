@@ -1,0 +1,19 @@
+id: incline-dumbbell-press
+nom: Développé incliné haltères
+nom_en: Incline dumbbell press
+description: Développé incliné avec haltères. Cible le haut des pectoraux.
+groupe: poitrine
+muscles_principaux:
+- pectoraux (haut)
+- deltoïdes antérieurs
+muscles_secondaires:
+- triceps
+equipement:
+- dumbbells
+- bench
+cues:
+- Banc à 30° idéalement
+- Coudes à 45° du corps
+- Étirer en bas, contracter en haut
+video_url: null
+image_url: null

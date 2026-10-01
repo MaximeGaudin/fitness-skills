@@ -1,0 +1,19 @@
+id: side-plank
+nom: Gainage latéral
+nom_en: Side plank
+description: Maintien latéral sur un avant-bras. Renforcement des obliques et stabilisateurs
+  du core.
+groupe: abdominaux
+muscles_principaux:
+- obliques
+- transverse
+muscles_secondaires:
+- moyen fessier
+- deltoïdes
+equipement: []
+cues:
+- Corps aligné de la tête aux pieds
+- Coude sous l'épaule
+- Hanche haute, ne pas s'affaisser
+video_url: https://www.youtube.com/watch?v=44ND4bOB-T0
+image_url: https://img.youtube.com/vi/44ND4bOB-T0/hqdefault.jpg

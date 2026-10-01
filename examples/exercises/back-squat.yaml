@@ -1,0 +1,24 @@
+id: back-squat
+nom: Squat barre nuque (back squat)
+nom_en: Back squat
+description: Squat avec barre sur les trapèzes. Mouvement fondamental pour les jambes
+  et le core.
+groupe: jambes
+muscles_principaux:
+- quadriceps
+- grand fessier
+muscles_secondaires:
+- ischio-jambiers
+- adducteurs
+- érecteurs du rachis
+- core
+equipement:
+- rack
+- barbell
+- plates
+cues:
+- Barre sur les trapèzes, pas sur le cou
+- Pieds largeur d'épaules, pointes légèrement ouvertes
+- Descendre hanches sous les genoux, dos droit, genoux dans l'axe
+video_url: https://www.youtube.com/watch?v=ultWZbUMPL8
+image_url: https://img.youtube.com/vi/ultWZbUMPL8/hqdefault.jpg

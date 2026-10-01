@@ -1,0 +1,18 @@
+id: dumbbell-fly
+nom: Écartés couchés (fly)
+nom_en: Dumbbell fly
+description: Écartés sur banc plat. Isolation des pectoraux en étirement.
+groupe: poitrine
+muscles_principaux:
+- pectoraux
+muscles_secondaires:
+- deltoïdes antérieurs
+equipement:
+- dumbbells
+- bench
+cues:
+- Bras en arc de cercle, coudes légèrement fléchis
+- Descendre jusqu'à sentir l'étirement pectoral
+- Charge légère, ne pas forcer l'étirement
+video_url: null
+image_url: null

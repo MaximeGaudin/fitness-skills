@@ -1,0 +1,21 @@
+id: chin-ups
+nom: Tractions supination
+nom_en: Chin-ups
+description: Traction à la barre en prise supination (paumes vers soi). Recrute davantage
+  les biceps.
+groupe: dos
+muscles_principaux:
+- grand dorsal
+- biceps
+muscles_secondaires:
+- rhomboïdes
+- trapèzes
+- avant-bras
+equipement:
+- rack
+cues:
+- Paumes vers soi, prise largeur d'épaules
+- Menton au-dessus de la barre
+- Ne pas balancer les jambes
+video_url: null
+image_url: null

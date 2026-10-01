@@ -1,0 +1,20 @@
+id: hanging-leg-raise
+nom: Hanging leg raise
+nom_en: Hanging leg raise
+description: Suspendu à la barre, monter les jambes tendues à l'horizontale. Version
+  avancée du knee raise.
+groupe: abdominaux
+muscles_principaux:
+- grand droit de l'abdomen
+- psoas-iliaque
+muscles_secondaires:
+- obliques
+- quadriceps
+equipement:
+- rack
+cues:
+- Jambes tendues, monter à l'horizontale minimum
+- Pas de balancement (si nécessaire, marquer une pause en bas)
+- Descente aussi lente que la montée
+video_url: null
+image_url: null

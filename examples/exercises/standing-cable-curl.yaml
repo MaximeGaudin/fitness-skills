@@ -1,0 +1,18 @@
+id: standing-cable-curl
+nom: Curl biceps debout à la poulie basse
+nom_en: Standing cable curl
+description: Curl biceps debout face à la poulie basse. Tension constante sur le biceps.
+groupe: bras
+muscles_principaux:
+- biceps
+muscles_secondaires:
+- brachial
+- brachio-radial
+equipement:
+- cable-machine
+cues:
+- Coudes fixes le long du corps
+- Contraction en haut 1 sec
+- Descente contrôlée, pas de balancement
+video_url: null
+image_url: null

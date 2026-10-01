@@ -1,0 +1,21 @@
+id: barbell-hip-thrust
+nom: Hip thrust à la barre
+nom_en: Barbell hip thrust
+description: Extension de hanche avec le haut du dos sur le banc et la barre sur les
+  hanches. Meilleur exercice pour le grand fessier.
+groupe: jambes
+muscles_principaux:
+- grand fessier
+muscles_secondaires:
+- ischio-jambiers
+- quadriceps
+equipement:
+- bench
+- barbell
+- plates
+cues:
+- Haut du dos sur le banc, pieds à plat
+- Pousser les hanches vers le plafond, serrer les fessiers en haut
+- Menton rentré (regard vers les genoux, pas au plafond)
+video_url: null
+image_url: null

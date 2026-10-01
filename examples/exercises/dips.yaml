@@ -1,0 +1,20 @@
+id: dips
+nom: Dips
+nom_en: Dips
+description: Flexion-extension aux barres parallèles. Mouvement composé pour les pectoraux
+  et triceps.
+groupe: poitrine / bras
+muscles_principaux:
+- pectoraux (bas)
+- triceps
+muscles_secondaires:
+- deltoïdes antérieurs
+equipement:
+- dip-bars
+- rack
+cues:
+- Omoplates basses, buste penché en avant pour les pecs
+- Descendre coudes à 90° (pas plus bas au début)
+- Pousser en serrant les coudes vers les côtes
+video_url: https://www.youtube.com/watch?v=jMbLfZly08U
+image_url: https://img.youtube.com/vi/jMbLfZly08U/hqdefault.jpg

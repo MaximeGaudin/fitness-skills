@@ -1,0 +1,17 @@
+id: leg-curl
+nom: Curl de jambes (leg curl)
+nom_en: Leg curl
+description: Flexion des jambes sur le leg developer. Isolation des ischio-jambiers.
+groupe: jambes
+muscles_principaux:
+- ischio-jambiers
+muscles_secondaires:
+- mollets
+equipement:
+- cable-machine
+cues:
+- Ventre sur le banc (retourné)
+- Monter les talons vers les fesses
+- Descente contrôlée
+video_url: null
+image_url: null

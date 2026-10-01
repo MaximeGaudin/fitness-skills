@@ -1,0 +1,21 @@
+id: box-jump
+nom: Box jump
+nom_en: Box jump
+description: Saut sur une box pliométrique, atterrissage debout en extension complète.
+groupe: jambes
+muscles_principaux:
+- quadriceps
+- grand fessier
+- mollets
+muscles_secondaires:
+- ischio-jambiers
+- core
+equipement:
+- plyo-box
+cues:
+- Départ debout, bras en arrière puis balancés vers l'avant
+- Atterrissage pieds à plat, genoux légèrement fléchis, hanches ouvertes
+- Extension complète en haut (hanches + genoux verrouillés) avant de descendre
+- Descendre en step-down (pas de rebond) pour préserver les genoux en volume
+video_url: https://www.youtube.com/watch?v=NBY9-hSswGY
+image_url: https://img.youtube.com/vi/NBY9-hSswGY/hqdefault.jpg

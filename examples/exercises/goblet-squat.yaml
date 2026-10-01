@@ -1,0 +1,20 @@
+id: goblet-squat
+nom: Goblet squat
+nom_en: Goblet squat
+description: Squat avec un haltère tenu devant la poitrine. Idéal pour apprendre la
+  mécanique du squat.
+groupe: jambes
+muscles_principaux:
+- quadriceps
+- grand fessier
+muscles_secondaires:
+- adducteurs
+- core
+equipement:
+- dumbbells
+cues:
+- Haltère contre la poitrine, coudes entre les genoux
+- Descendre profond, coudes poussent les genoux vers l'extérieur
+- Buste droit, poitrine haute
+video_url: null
+image_url: null

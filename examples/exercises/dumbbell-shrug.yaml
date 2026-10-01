@@ -1,0 +1,17 @@
+id: dumbbell-shrug
+nom: Shrug haltères
+nom_en: Dumbbell shrug
+description: Haussement d'épaules avec haltères. Isolation des trapèzes supérieurs.
+groupe: dos
+muscles_principaux:
+- trapèzes supérieurs
+muscles_secondaires:
+- élévateur de la scapula
+equipement:
+- dumbbells
+cues:
+- Épaules vers les oreilles, tenir 1 sec
+- Bras tendus, pas de flexion des coudes
+- Descente contrôlée
+video_url: null
+image_url: null

@@ -1,0 +1,18 @@
+id: dumbbell-front-raise
+nom: Élévations frontales haltères
+nom_en: Dumbbell front raise
+description: Élévation frontale des bras avec haltères. Isolation du deltoïde antérieur.
+groupe: épaules
+muscles_principaux:
+- deltoïde antérieur
+muscles_secondaires:
+- trapèzes
+- pectoraux (haut)
+equipement:
+- dumbbells
+cues:
+- Bras quasi tendus, monter à hauteur d'épaules
+- Alterner ou simultané
+- Ne pas cambrer le dos
+video_url: null
+image_url: null

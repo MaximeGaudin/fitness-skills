@@ -1,0 +1,20 @@
+id: push-ups
+nom: Pompes
+nom_en: Push-ups
+description: Flexion-extension des bras en appui au sol. Mouvement de base pour les
+  pectoraux, triceps et core.
+groupe: poitrine
+muscles_principaux:
+- pectoraux
+- triceps
+- deltoïdes antérieurs
+muscles_secondaires:
+- core
+- dentelé antérieur
+equipement: []
+cues:
+- Corps gainé de la tête aux pieds (pas de creux dans le dos)
+- Coudes à 45° du corps, pas évasés
+- Descendre poitrine au sol, extension complète en haut
+video_url: https://www.youtube.com/watch?v=IODxDxX7oi4
+image_url: https://img.youtube.com/vi/IODxDxX7oi4/hqdefault.jpg

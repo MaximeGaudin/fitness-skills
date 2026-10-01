@@ -1,0 +1,19 @@
+id: cable-hip-abduction
+nom: Abduction hanche à la poulie basse
+nom_en: Cable hip abduction
+description: Écartement latéral de la jambe à la poulie basse. Travaille le moyen
+  fessier.
+groupe: jambes
+muscles_principaux:
+- moyen fessier
+- petit fessier
+muscles_secondaires:
+- tenseur du fascia lata
+equipement:
+- cable-machine
+cues:
+- Jambe tendue, mouvement latéral contrôlé
+- Ne pas pencher le buste du côté opposé
+- Contraction en haut du mouvement
+video_url: null
+image_url: null

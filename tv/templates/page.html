@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ title }}</title>
+<style>
+{{ css }}
+</style>
+</head>
+<body>
+
+<div class="tv-frame">
+  <div class="top-bar">
+    <div class="top-title">{{ title }}</div>
+    <div class="top-meta">
+      <span class="top-clock" id="top-clock"></span>
+      <span>{{ day }} {{ date }}</span>
+      <span class="format-badge">{{ format }}</span>
+      <span>{{ total_duration }} min</span>
+    </div>
+  </div>
+
+  <div class="phase-header">
+    <div class="phase-header-row">
+      <div class="phase-block-name" id="block-name">Ready</div>
+      <div class="phase-progress" id="progress">
+        {% for block in blocks %}
+        <span class="progress-dot{% if loop.first %}-active{% endif %}" id="dot-{{ loop.index0 }}"></span>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+
+  <table class="main-content">
+    <tr>
+    <td class="content-full">
+      {% for block in blocks %}
+      {% if block.video_url %}
+      <div class="block-screen technical-screen" id="block-{{ loop.index0 }}" {% if not loop.first %}style="display:none"{% endif %}>
+        {% if block.strategy_lines %}
+        <div class="strategy-box">
+          {% for line in block.strategy_lines %}
+          <div class="strategy-line">{{ line }}</div>
+          {% endfor %}
+        </div>
+        {% endif %}
+        <div class="technical-video">
+          <iframe id="video-frame-{{ loop.index0 }}" data-src="https://www.youtube.com/embed/{{ block.video_id }}?rel=0&autoplay=1&loop=1&playlist={{ block.video_id }}" width="100%" height="100%" frameborder="0" allowfullscreen allow="autoplay"></iframe>
+        </div>
+        <div class="technical-footer">
+          {% for ex in block.exercises %}
+          <div class="technical-footer-set">
+            <b>{{ ex.name }}</b>
+            {% if ex.notes %} - {{ ex.notes }}{% endif %}
+            <span class="prescription">{{ ex.prescription }}</span>
+          </div>
+          {% endfor %}
+          <div style="clear:both"></div>
+        </div>
+      </div>
+      {% else %}
+      <div class="block-screen{% if block.dense %} block-screen-dense{% endif %}" id="block-{{ loop.index0 }}" {% if not loop.first %}style="display:none"{% endif %}>
+        {% if block.strategy_lines %}
+        <div class="strategy-box{% if block.dense %} strategy-box-dense{% endif %}">
+          {% for line in block.strategy_lines %}
+          <div class="strategy-line">{{ line }}</div>
+          {% endfor %}
+        </div>
+        {% endif %}
+        <table class="ex-grid">
+        <tr>
+          <td class="ex-col">
+            {% for ex in block.exercises_left %}
+            <div class="exercise-row{% if block.compact %} exercise-row-compact{% endif %}{% if block.dense %} exercise-row-dense{% endif %}{% if block.rangement %} exercise-row-rangement{% endif %}{% if block.setup %} exercise-row-setup{% endif %}">
+              {% if ex.image and not block.compact and not block.dense and not block.rangement and not block.setup %}
+              <img class="ex-thumb" src="{{ ex.image }}" alt="">
+              {% endif %}
+              <div class="ex-name{% if block.compact %} ex-name-compact{% endif %}{% if block.dense %} ex-name-dense{% endif %}">{% if ex.index is defined and not block.rangement and not block.setup %}<span class="ex-index{% if block.compact %} ex-index-compact{% endif %}{% if block.dense %} ex-index-dense{% endif %}">{{ ex.index }}</span>{% endif %}{{ ex.name }}</div>
+              {% if ex.notes %}
+              <div class="ex-notes{% if block.compact %} ex-notes-compact{% endif %}{% if block.dense %} ex-notes-dense{% endif %}">{{ ex.notes }}</div>
+              {% endif %}
+              {% if ex.prescription %}
+              <div class="ex-prescription{% if block.compact %} ex-prescription-compact{% endif %}{% if block.dense %} ex-prescription-dense{% endif %}">{{ ex.prescription }}</div>
+              {% endif %}
+              <div style="clear:both"></div>
+            </div>
+            {% endfor %}
+          </td>
+          <td class="ex-col">
+            {% for ex in block.exercises_right %}
+            <div class="exercise-row{% if block.compact %} exercise-row-compact{% endif %}{% if block.dense %} exercise-row-dense{% endif %}{% if block.rangement %} exercise-row-rangement{% endif %}{% if block.setup %} exercise-row-setup{% endif %}">
+              {% if ex.image and not block.compact and not block.dense and not block.rangement and not block.setup %}
+              <img class="ex-thumb" src="{{ ex.image }}" alt="">
+              {% endif %}
+              <div class="ex-name{% if block.compact %} ex-name-compact{% endif %}{% if block.dense %} ex-name-dense{% endif %}">{% if ex.index is defined and not block.rangement and not block.setup %}<span class="ex-index{% if block.compact %} ex-index-compact{% endif %}{% if block.dense %} ex-index-dense{% endif %}">{{ ex.index }}</span>{% endif %}{{ ex.name }}</div>
+              {% if ex.notes %}
+              <div class="ex-notes{% if block.compact %} ex-notes-compact{% endif %}{% if block.dense %} ex-notes-dense{% endif %}">{{ ex.notes }}</div>
+              {% endif %}
+              {% if ex.prescription %}
+              <div class="ex-prescription{% if block.compact %} ex-prescription-compact{% endif %}{% if block.dense %} ex-prescription-dense{% endif %}">{{ ex.prescription }}</div>
+              {% endif %}
+              <div style="clear:both"></div>
+            </div>
+            {% endfor %}
+          </td>
+        </tr>
+        </table>
+      </div>
+      {% endif %}
+      {% endfor %}
+
+      <div class="block-screen" id="block-done" style="display:none">
+        <div class="done-msg">Session Complete</div>
+      </div>
+    </td>
+    </tr>
+  </table>
+
+  <div class="bottom-nav">
+    <button class="btn-nav btn-prev" id="btn-prev" type="button" onclick="timerPrev()" style="visibility:hidden">&#8592; Previous</button>
+    <button class="btn-nav btn-next" id="btn-next" type="button" onclick="timerNext()">Next &#8594;</button>
+  </div>
+</div>
+
+<script>
+{{ js }}
+</script>
+</body>
+</html>

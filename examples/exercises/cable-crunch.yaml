@@ -1,0 +1,18 @@
+id: cable-crunch
+nom: Crunch à la poulie haute
+nom_en: Cable crunch
+description: Crunch à genoux face à la poulie haute. Résistance constante sur les
+  abdominaux.
+groupe: abdominaux
+muscles_principaux:
+- grand droit de l'abdomen
+muscles_secondaires:
+- obliques
+equipement:
+- cable-machine
+cues:
+- À genoux, mains derrière la tête avec le câble
+- Enrouler le buste vers les genoux (flexion vertébrale)
+- Ne pas tirer avec les bras, mouvement du tronc uniquement
+video_url: null
+image_url: null

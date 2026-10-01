@@ -1,0 +1,20 @@
+id: arnold-press
+nom: Arnold press
+nom_en: Arnold press
+description: Développé épaules avec rotation des poignets. Recrute les trois faisceaux
+  du deltoïde.
+groupe: épaules
+muscles_principaux:
+- deltoïdes (tous faisceaux)
+muscles_secondaires:
+- triceps
+- trapèzes
+equipement:
+- dumbbells
+- bench
+cues:
+- Départ paumes vers soi (curl), rotation pendant la montée
+- Finir paumes vers l'extérieur en haut
+- Mouvement fluide et contrôlé
+video_url: null
+image_url: null

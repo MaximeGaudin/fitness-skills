@@ -1,0 +1,19 @@
+id: seated-chest-press
+nom: Chest press assis
+nom_en: Seated chest press
+description: Développé horizontal sur la station butterfly en position press. Mouvement
+  composé poitrine.
+groupe: poitrine
+muscles_principaux:
+- pectoraux
+- deltoïdes antérieurs
+muscles_secondaires:
+- triceps
+equipement:
+- cable-machine
+cues:
+- Dos plaqué contre le dossier
+- Pousser droit devant, extension complète
+- Descente contrôlée
+video_url: null
+image_url: null

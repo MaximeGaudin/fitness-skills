@@ -1,0 +1,18 @@
+id: hammer-curl
+nom: Curl marteau
+nom_en: Hammer curl
+description: Curl en prise neutre (paumes face à face). Cible le brachial et le brachio-radial.
+groupe: bras
+muscles_principaux:
+- brachial
+- brachio-radial
+muscles_secondaires:
+- biceps
+equipement:
+- dumbbells
+cues:
+- Prise neutre (paumes face à face) tout le mouvement
+- Coudes immobiles
+- Alterner ou simultané
+video_url: null
+image_url: null

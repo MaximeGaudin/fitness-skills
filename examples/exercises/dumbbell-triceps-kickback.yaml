@@ -1,0 +1,17 @@
+id: dumbbell-triceps-kickback
+nom: Kickback triceps haltère
+nom_en: Dumbbell triceps kickback
+description: Extension du bras vers l'arrière, buste penché. Isolation du triceps.
+groupe: bras
+muscles_principaux:
+- triceps
+muscles_secondaires:
+- anconé
+equipement:
+- dumbbells
+cues:
+- Buste penché, bras parallèle au sol, coude fixe
+- Étendre complètement l'avant-bras vers l'arrière
+- Charge légère, contraction en haut
+video_url: null
+image_url: null

@@ -1,0 +1,22 @@
+id: bent-over-barbell-row
+nom: Rowing barre buste penché
+nom_en: Bent-over barbell row
+description: Tirage horizontal buste penché avec barre. Mouvement composé majeur pour
+  le dos.
+groupe: dos
+muscles_principaux:
+- grand dorsal
+- rhomboïdes
+- trapèzes
+muscles_secondaires:
+- biceps
+- érecteurs du rachis
+equipement:
+- barbell
+- plates
+cues:
+- Buste à 45° minimum, dos plat
+- Tirer la barre vers le nombril
+- Serrer les omoplates en haut, descente contrôlée
+video_url: null
+image_url: null

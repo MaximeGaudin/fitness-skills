@@ -1,0 +1,19 @@
+id: preacher-curl
+nom: Curl biceps au pupitre
+nom_en: Preacher curl
+description: Curl biceps avec le bras appuyé sur le pupitre. Élimine la triche et
+  isole le biceps.
+groupe: bras
+muscles_principaux:
+- biceps
+muscles_secondaires:
+- brachial
+- brachio-radial
+equipement:
+- cable-machine
+cues:
+- Bras bien calé sur le pupitre, aisselle en haut
+- Ne pas décoller les coudes du pupitre
+- Descente lente et complète (pas de demi-reps)
+video_url: null
+image_url: null

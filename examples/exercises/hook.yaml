@@ -1,0 +1,20 @@
+id: hook
+nom: Crochet (hook)
+nom_en: Hook
+description: Frappe circulaire horizontale. Puissance générée par la rotation du tronc.
+groupe: frappe
+muscles_principaux:
+- obliques
+- pectoraux
+- deltoïdes
+muscles_secondaires:
+- core
+- biceps
+equipement:
+- punching-bag
+cues:
+- Bras à 90°, rotation du pied et du bassin
+- Frapper avec les deux premiers phalanges
+- Ne pas surcharger l'épaule, retour rapide en garde
+video_url: null
+image_url: null

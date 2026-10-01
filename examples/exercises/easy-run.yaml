@@ -1,0 +1,20 @@
+id: easy-run
+nom: Course à pied (endurance)
+nom_en: Easy run
+description: Course à allure facile, conversationnelle. Zone cardiaque 1-2.
+groupe: cardio
+muscles_principaux:
+- quadriceps
+- ischio-jambiers
+- mollets
+muscles_secondaires:
+- grand fessier
+- psoas-iliaque
+- core
+equipement: []
+cues:
+- Allure conversationnelle, pas d'essoufflement
+- Foulée courte et fréquente
+- Posture droite, épaules relâchées
+video_url: https://www.youtube.com/watch?v=brFHyOtTwH4
+image_url: https://img.youtube.com/vi/brFHyOtTwH4/hqdefault.jpg
